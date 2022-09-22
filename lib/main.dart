@@ -15,7 +15,7 @@ void main() {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
     MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Flutter Demo 1',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
